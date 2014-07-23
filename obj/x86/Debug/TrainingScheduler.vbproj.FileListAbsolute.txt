@@ -1,0 +1,181 @@
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\TrainingScheduler.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\TrainingScheduler.pdb
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\obj\x86\Debug\TrainingScheduler.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\obj\x86\Debug\TrainingScheduler.pdb
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\AjaxControlToolkit.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\HtmlAgilityPack.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\AjaxMin.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.OData.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.Edm.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\System.Spatial.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\AjaxControlToolkit.pdb
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.OData.xml
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.Edm.xml
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\System.Spatial.xml
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ar\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\cs\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\de\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\es\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\fr\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\he\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\hi\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\it\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ja\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ko\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\nl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\pl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\pt\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ru\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\de\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\es\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\it\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\de\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\es\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\fr\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\it\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ja\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ko\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\ru\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hans\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\SharpDevelop Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hant\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\TrainingScheduler.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\TrainingScheduler.pdb
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\HtmlAgilityPack.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\AjaxMin.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.OData.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.Edm.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\System.Spatial.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\AjaxControlToolkit.pdb
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.OData.xml
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.Edm.xml
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\System.Spatial.xml
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ar\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\cs\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\de\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\es\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\fr\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\he\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\hi\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\it\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ja\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ko\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\nl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\pl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\pt\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ru\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\de\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\es\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\it\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\de\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\es\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\fr\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\it\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ja\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ko\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\ru\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hans\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\bin\zh-Hant\System.Spatial.resources.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\obj\x86\Debug\TrainingScheduler.dll
+C:\Documents and Settings\dwhittaker\My Documents\My SD Projects\TrainingScheduler\TrainingScheduler\obj\x86\Debug\TrainingScheduler.pdb
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\TrainingScheduler.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\TrainingScheduler.pdb
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\Microsoft.WindowsAzure.Storage.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\HtmlAgilityPack.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\AjaxMin.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.OData.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.Edm.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\System.Spatial.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\AjaxControlToolkit.pdb
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\Microsoft.WindowsAzure.Storage.xml
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.OData.xml
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\Microsoft.Data.Edm.xml
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\System.Spatial.xml
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ar\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\cs\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\de\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\es\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\fr\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\he\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\hi\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\it\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ja\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ko\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\nl\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\pl\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\pt\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ru\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\de\Microsoft.Data.OData.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\es\Microsoft.Data.OData.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\fr\Microsoft.Data.OData.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\it\Microsoft.Data.OData.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ja\Microsoft.Data.OData.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ko\Microsoft.Data.OData.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ru\Microsoft.Data.OData.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\de\Microsoft.Data.Edm.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\es\Microsoft.Data.Edm.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\it\Microsoft.Data.Edm.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\de\System.Spatial.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\es\System.Spatial.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\fr\System.Spatial.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\it\System.Spatial.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ja\System.Spatial.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ko\System.Spatial.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\ru\System.Spatial.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\zh-Hans\System.Spatial.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\bin\zh-Hant\System.Spatial.resources.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\obj\x86\Debug\TrainingScheduler.dll
+C:\inetpub\TrainingScheduler\TrainingScheduler\obj\x86\Debug\TrainingScheduler.pdb
+C:\inetpub\TrainingScheduler\TrainingScheduler\obj\x86\Debug\TrainingScheduler.vbprojResolveAssemblyReference.cache
